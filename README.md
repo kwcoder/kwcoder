@@ -7,6 +7,7 @@
 * ⚡ Fun facts: I am currently reading 'The Age of Surveillance Capitalism' by Shoshana Zuboff to qualify my interest in Computational Social Science. 
   My favourite data science projects tend to fall into either mechanistic or inferential categories.
 
+You can contact me here on GitHub or on [LinkedIn](https://www.linkedin.com/in/kenya-williams).
 <!---
 kwcoder/kwcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
