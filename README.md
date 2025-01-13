@@ -1,3 +1,4 @@
+### Hi, I'm Kenya 👋🏾
 * 👋 Hi, I’m @kwcoder, but in real life, I prefer to go by: **'print("Kenya")'**
 * 😄 Pronouns: she/her 
 * 👀 I’m an aspiring data scientist, having just completed my MSc in Data Science at the University of Birmingham.
