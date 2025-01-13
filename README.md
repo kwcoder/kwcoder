@@ -1,5 +1,4 @@
 ### Hi, I'm Kenya 👋🏾
-@kwcoder, but in real life, I prefer to go by: **'print("Kenya")'**
 * 😄 Pronouns: she/her 
 * 👀 I’m an aspiring data scientist, having just completed my MSc in Data Science at the University of Birmingham.
 * 💡 My ideal career would involve a combination of market research, behavioural insights, and strategic proposal development.
