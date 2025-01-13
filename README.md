@@ -1,5 +1,5 @@
 ### Hi, I'm Kenya 👋🏾
-* 👋 Hi, I’m @kwcoder, but in real life, I prefer to go by: **'print("Kenya")'**
+@kwcoder, but in real life, I prefer to go by: **'print("Kenya")'**
 * 😄 Pronouns: she/her 
 * 👀 I’m an aspiring data scientist, having just completed my MSc in Data Science at the University of Birmingham.
 * 💡 My ideal career would involve a combination of market research, behavioural insights, and strategic proposal development.
@@ -8,7 +8,7 @@
 * ⚡ Fun facts: I am currently reading 'The Age of Surveillance Capitalism' by Shoshana Zuboff to qualify my interest in Computational Social Science. 
   My favourite data science projects tend to fall into either mechanistic or inferential categories.
 
-You can contact me here on GitHub or on [LinkedIn](https://www.linkedin.com/in/kenya-williams).
+You can contact me here on GitHub ([@kwcoder](https://github.com/kwcoder)) or on [LinkedIn](https://www.linkedin.com/in/kenya-williams).
 <!---
 kwcoder/kwcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
