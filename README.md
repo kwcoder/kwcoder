@@ -1,4 +1,7 @@
 ### Hi, I'm Kenya 👋🏾
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenya-williams)
+<i class="fab fa-linkedin-in"></i>
+### Welcome to my corner of GitHub!
 * 😄 Pronouns: she/her 
 * 👀 I’m an aspiring data scientist, having just completed my MSc in Data Science at the University of Birmingham.
 * 💡 My ideal career would involve a combination of market research, behavioural insights, and strategic proposal development.
