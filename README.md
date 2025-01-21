@@ -1,6 +1,8 @@
 ### Hi, I'm Kenya 👋🏾
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenya-williams)
-<i class="fab fa-linkedin-in"></i>
+<a href="https://www.linkedin.com/in/kenya-williams" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 ### Welcome to my corner of GitHub!
 * 😄 Pronouns: she/her 
 * 👀 I’m an aspiring data scientist, having just completed my MSc in Data Science at the University of Birmingham.
