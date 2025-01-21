@@ -1,7 +1,6 @@
 ### Hi, I'm Kenya 👋🏾
-<a href="https://www.linkedin.com/in/kenya-williams" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenya-williams)
+
 
 ### Welcome to my corner of GitHub!
 * 😄 Pronouns: she/her 
