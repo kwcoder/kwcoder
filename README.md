@@ -18,7 +18,17 @@ I am a soon-to-be **Carbon Analyst**, having recently completed my MSc in **Data
 * ⚡ Fun facts: Reading 'The Age of Surveillance Capitalism' by Shoshana Zuboff.
   I enjoy mechanistic and inferential data science projects the most.
 
+<details>
+<summary><span style="color: #bf00ff;">Click to view stats summary</span></summary>
+
+
+![kwcoder's Stats](https://github-readme-stats.vercel.app/api?username=kwcoder&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+
+</details>
+
+
 You can contact me here on GitHub ([@kwcoder](https://github.com/kwcoder)) or on [LinkedIn](https://www.linkedin.com/in/kenya-williams).
+
 <!---
 kwcoder/kwcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
