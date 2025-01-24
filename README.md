@@ -1,11 +1,16 @@
 ### Hi, I'm Kenya 👋🏾
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenya-williams)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenya-williams) 
+[![SubStack](https://img.shields.io/badge/SubStack-FF6719?style=flat&logo=substack&logoColor=white)](https://kenyawilliams.substack.com/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@kenyabellowilliams) 
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=wordpress&logoColor=white)](https://kenyawilliamscom.wordpress.com/)
+
+
 
 ### Welcome to my corner of GitHub!
 I am a soon-to-be **Carbon Analyst**, having recently completed my MSc in **Data Science** at the University of Birmingham. While there, I developed an interest in using **Natural Language Processing** to analyse and generate online content, aiming to improve the accuracy of **knowledge distribution** sources.
 
 #### More About Me:
-<img align="right" width="200" src="https://github.com/user-attachments/assets/1a188980-3d75-4fa0-8f13-4575f5afb2af" width="250">
+<img align="right" width="285" src="https://github.com/user-attachments/assets/1a188980-3d75-4fa0-8f13-4575f5afb2af" width="250">
 
 * 🌱 Improving my skills in _pandas_ and SQL.
 * 💡 Interested in projects combining market research, behavioural insights, and strategy.
