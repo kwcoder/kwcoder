@@ -1,7 +1,7 @@
 ### Hi, I'm Kenya 👋🏾
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenya-williams) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@kenyabellowilliams) 
-[![SubStack](https://img.shields.io/badge/SubStack-FF6719?style=flat&logo=substack&logoColor=white)](https://kenyawilliams.substack.com/) 
+[![Substack](https://img.shields.io/badge/SubStack-FF6719?style=flat&logo=substack&logoColor=white)](https://kenyawilliams.substack.com/) 
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=wordpress&logoColor=white)](https://kenyawilliamscom.wordpress.com/)
 
 
