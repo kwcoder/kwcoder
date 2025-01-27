@@ -16,7 +16,7 @@ I am a soon-to-be **Carbon Analyst**, having recently completed my MSc in **Data
 * 💡 Interested in projects combining market research, behavioural insights, and strategy.
 * 💞️ Seeking collaborations on data projects exploring digital behaviour, especially in-group/out-group dynamics.
 * ⚡ Fun facts: Reading 'The Age of Surveillance Capitalism' by Shoshana Zuboff.
-  I enjoy mechanistic and inferential data science projects the most.
+  I enjoy most data science projects with a mechanistic or inferential bent.
 
 <details>
 <summary><span style="color: #bf00ff;">Click to view stats summary</span></summary>
