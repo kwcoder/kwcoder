@@ -12,7 +12,7 @@ I am a soon-to-be **Carbon Analyst**, having recently completed my MSc in **Data
 #### More About Me:
 <img align="right" width="285" src="https://github.com/user-attachments/assets/1a188980-3d75-4fa0-8f13-4575f5afb2af" width="250">
 
-* 🌱 Improving my skills in _pandas_ and SQL.
+* 🌱 Improving my skills in SQL.
 * 💡 Interested in projects combining market research, behavioural insights, and strategy.
 * 💞️ Seeking collaborations on data projects exploring digital behaviour, especially in-group/out-group dynamics.
 * ⚡ Fun facts: Reading 'The Age of Surveillance Capitalism' by Shoshana Zuboff.
