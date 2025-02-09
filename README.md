@@ -7,7 +7,7 @@
 
 
 ### Welcome to my corner of GitHub! 
-I am a soon-to-be **Carbon Analyst**, having recently completed my MSc in **Data Science** at the University of Birmingham. While there, I developed an interest in using **Natural Language Processing** to analyse and generate online content, aiming to improve the accuracy of [**knowledge distribution**](https://github.com/kwcoder/wikipedia-see-also-automation/blob/main/README.md) sources.
+I am a **Carbon Analyst Intern**, having recently completed my MSc in **Data Science** at the University of Birmingham. While there, I developed an interest in using **Natural Language Processing** to analyse and generate online content, aiming to improve the accuracy of [**knowledge distribution**](https://github.com/kwcoder/wikipedia-see-also-automation/blob/main/README.md) sources.
 
 #### More About Me: 
 <img align="right" width="285" src="https://github.com/user-attachments/assets/1a188980-3d75-4fa0-8f13-4575f5afb2af" width="250">
