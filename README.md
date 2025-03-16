@@ -6,7 +6,7 @@
 
 
 
-### Welcome to my lonely corner of GitHub! 
+### Welcome to my corner of GitHub! 
 I am a **Carbon Analyst Intern**, having recently completed my MSc in **Data Science** at the University of Birmingham. While there, I developed an interest in using **Natural Language Processing** to analyse and generate online content, aiming to improve the accuracy of [**knowledge distribution**](https://github.com/kwcoder/wikipedia-see-also-automation/blob/main/README.md) sources. I hope to use this account to extract my ideas from my head and validate and execute them.
 
 #### More About Me: 
